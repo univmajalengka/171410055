@@ -23,7 +23,7 @@ include("koneksi.php");
 ?>
 		<tr>
 			<td><?php echo"$r[id_anggota]";?></td>
-			<td><?php echo"$r[nama]";?></td>
+			<td><?php echo"$r[nama_anggota]";?></td>
 			<td><?php echo"$r[jk]";?></td>
 			<td><?php echo"$r[jurusan]";?></td>
 			<td><?php echo"$r[angkatan]";?></td>

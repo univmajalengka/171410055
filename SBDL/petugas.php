@@ -24,7 +24,7 @@ include("koneksi.php");
 ?>
 		<tr>
 			<td><?php echo"$r[id_petugas]";?></td>
-			<td><?php echo"$r[nama]";?></td>
+			<td><?php echo"$r[nama_petugas]";?></td>
 			<td><?php echo"$r[jk]";?></td>
 			<td><?php echo"$r[jabatan]";?></td>
 			<td><?php echo"$r[jam_tugas]";?></td>
